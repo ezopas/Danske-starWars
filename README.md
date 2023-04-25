@@ -7,6 +7,8 @@
 - Grab code
 - run command: > npm install
 - secound command: > ionic serve
+
+
 note: if ionic is not loanding, probably needed to install this by command: > npm install -g @ionic/cli
 
 ## Nothing of Back end.
