@@ -21,4 +21,4 @@
 
 ## Why I am doing in this way?
 
-Becouse I wanted to chalange my self more and try new UI library like ionic which is more mobile friendly and I was long time ago working with type script
+Becouse I wanted to chalange to my self and try new UI library like Ionic which is more mobile friendly and I was long time ago working with type script
